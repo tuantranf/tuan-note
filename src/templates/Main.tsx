@@ -35,7 +35,7 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">
+              <a href="https://github.com/tuantranf/tuan-note">
                 GitHub
               </a>
             </li>
@@ -50,7 +50,7 @@ const Main = (props: IMainProps) => (
         <span role="img" aria-label="Love">
           ♥
         </span>{' '}
-        by <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+        by <a href="https://tuantranf.com">Tuantranf</a>
         {/*
          * PLEASE READ THIS SECTION
          * We'll really appreciate if you could have a link to our website
